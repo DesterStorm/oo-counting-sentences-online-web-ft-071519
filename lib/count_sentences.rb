@@ -18,3 +18,5 @@ class String
     self.split(/[.?!]/).reject {|a| a.empty?}.size 
   end
 end
+
+# YOU'RE DANG RIGHT!!! 
